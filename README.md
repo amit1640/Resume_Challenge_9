@@ -14,6 +14,7 @@ OUTPUT: A file containing SQL queries used to gain insights..
 ## Database
 It is a folder which contains database of AtliQMart data.
 
-
+## Metadeta
+Information about the data.
 
 

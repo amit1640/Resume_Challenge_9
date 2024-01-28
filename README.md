@@ -4,7 +4,7 @@ Brief description or overview of your project.
 
 ## Presentation
 
- MY_PRESENTATION.pptx - It contains ppt pf the insights from the project.
+ MY_PRESENTATION.pptx - It contains ppt of the insights from the project.
 
 ## SQL Queries and Outputs
 
